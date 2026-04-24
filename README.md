@@ -7,3 +7,8 @@ Is there a statistically significant correlation between the volume of social me
 Does positive or negative sentiment precede price shifts, or does it merely react to them?
 
 Can we identify "social noise" vs meaningful market signals?
+
+## Data sets
+https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+
+https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets
